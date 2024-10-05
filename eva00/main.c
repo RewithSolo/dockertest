@@ -18,6 +18,6 @@ int main()
         printf("Oшибка ввода данных");
         return rc;
     }
-
+    printf("this is end!");
     return OK;
 }
